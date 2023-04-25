@@ -1,4 +1,4 @@
-#simplekml is a python package which enables you to generate KML with as little effort as possible.
+# simplekml is a python package which enables you to generate KML with as little effort as possible.
 
 > This project is a Fork from [https://github.com/tjlang/simplekml](https://github.com/tjlang/simplekml) but has support for Python 3.8 and superior
 
